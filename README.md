@@ -141,5 +141,3 @@ Here’s a **curated list of diseases** that work well for a medical prediction 
 2. **Unify Input Forms**: Group common features (e.g., age, BMI, blood pressure) to reduce redundancy.  
 3. **Explainability**: Use SHAP/LIME for all models to show why predictions are made.  
 4. **Prioritize Accuracy**: Highlight your best-performing models on the app’s homepage (e.g., "Heart Disease Model: 92% Accuracy").  
-
-This list balances **clinical relevance**, **dataset quality**, and **ML feasibility**. Let me know if you want help designing the app’s architecture or training a specific model! 🏥🔍
